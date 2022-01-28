@@ -25,7 +25,7 @@
 - [X] Module 04 - Vanilla JS - website implementation
 - [X] Module 05 - Angular - website implementation
 - [x] Module 06 - Java introduction
-- [ ] Module 07 - External dependencies
+- [x] Module 07 - External dependencies
 - [ ] Module 08 - Web implementation
 - [ ] Module 09 - Database
 - [ ] Module 10 - Advanced topics
