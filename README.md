@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=ffsilva27&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffsilva27&theme=dark)
 
 ### 💌 Onde me encontrar:
 
